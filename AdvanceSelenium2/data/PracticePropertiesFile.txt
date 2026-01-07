@@ -1,0 +1,4 @@
+#done
+#Thu Aug 28 13:01:44 IST 2025
+browser=chrome
+url=https\://amazon.in
