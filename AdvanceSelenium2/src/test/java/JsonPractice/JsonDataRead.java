@@ -19,5 +19,6 @@ public void getDataFromJson() throws FileNotFoundException, IOException, ParseEx
 	JSONObject map=(JSONObject)object;
 	System.out.println(map.get("browser"));
 	System.out.println("TL update 2");
+	System.out.println("hy");
 }
 }
