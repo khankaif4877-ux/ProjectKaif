@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
 	<name>AdvanceSelenium2</name>
-=======
-	<name>ProjectKiranfork</name>
->>>>>>> 0a234a4fa16d5a8e7e6cd4be831ade60407289e5
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -24,9 +19,5 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
-=======
-	</buildSpec>
-	<natures>
->>>>>>> 0a234a4fa16d5a8e7e6cd4be831ade60407289e5
 	</natures>
 </projectDescription>
